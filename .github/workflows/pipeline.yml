@@ -21,4 +21,4 @@ jobs:
     - name: Run unit tests
       run: npm run test:unit
     - name: Display SoftUni name - velkovd
-      run: echo "oftUni name - velkovd"
+      run: echo "softUni name - velkovd"
